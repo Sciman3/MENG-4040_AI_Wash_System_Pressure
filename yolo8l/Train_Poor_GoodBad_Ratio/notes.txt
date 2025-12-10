@@ -1,0 +1,1 @@
+This model was trained on 222 modified cars and roughly 28 good cars
